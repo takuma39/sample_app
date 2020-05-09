@@ -1,3 +1,3 @@
 class HomesController < ApplicationController
-	def top
+	top
 end
