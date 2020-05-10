@@ -17,4 +17,5 @@ class TodolistsController < ApplicationController
         params.require(:list).permit(:title, :body)
     end
 
+
 end
